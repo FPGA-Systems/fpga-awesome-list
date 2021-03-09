@@ -31,8 +31,8 @@
 * [@fpgasystems](https://t.me/fpgasystems) - чат русскоязычного сообщества FPGA разработчиков
 
 # Youtube
-* (FPGA Systems)(https://youtube.com/c/fpgasystems)
-* (NandLAnd)(https://www.youtube.com/channel/UCsdA-aNqtMA1_2T15aXePWw/videos)
+* [FPGA Systems](https://youtube.com/c/fpgasystems)
+* [NandLAnd](https://www.youtube.com/channel/UCsdA-aNqtMA1_2T15aXePWw/videos)
 
 # Отладочные платы / Boards and kits
 
