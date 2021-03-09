@@ -5,15 +5,15 @@
 
 Добовлять данные в список, предлагать категории и улучшения по юзабилити списка можно через pull request или написав на почту admin@fpga-systems.ru или в личном сообщении в телеграм @KeisN13
 
-#Сайты / Web
+# Сайты / Web
 * [fpga-systems.ru](https://www.fpga-systems.ru) - русскоязычное сообщество FPGA разработчиков
 
 * [fpga4fun.com](https://www.fpga4fun.com/)
 
-#Телеграм / Telegram
+# Телеграм / Telegram
 
 
-#Youtube
+# Youtube
 
-#Отладочные платы / Boards
+# Отладочные платы / Boards
 
