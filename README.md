@@ -31,10 +31,16 @@
 
 # Телеграм -- Telegram
 * [@fpgasystems](https://t.me/fpgasystems) - чат русскоязычного сообщества FPGA разработчиков
+* [@fpg**a**sic](https://t.me/fpgasic) - FPG[A]SIC tips and tricks
+* [@ipcores](https://t.me/ipcores) - Collection of IP-cores for FPGA & ASIC written on Verilog/VHDL
+
 
 # Youtube
 * [FPGA Systems](https://youtube.com/c/fpgasystems)
 * [NandLAnd](https://www.youtube.com/channel/UCsdA-aNqtMA1_2T15aXePWw/videos)
+* [Intro to FPGA and Verilog (RU)](https://www.youtube.com/watch?v=d-Swjqo8WZg&list=PLhtMaaf_npBz9zfsJMZC12Lk3zvHiJckr) - курс от ФРТК МФТИ
+
 
 # Отладочные платы / Boards and kits
 
+* [Second life for FPGA boards](https://github.com/iDoka/awesome-fpga-boards) - Repurposed FPGA boards which getting Second life in DYI or Hobby projects (e.g. as DevKit usage)
