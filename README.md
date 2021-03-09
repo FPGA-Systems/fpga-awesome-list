@@ -16,6 +16,7 @@
 * [Сайты -- Web](#Сайты----Web)
 * [Телеграм -- Telegram](#Телеграм----Telegram)
 * [Youtube](#Youtube)
+* [Инструменты -- Tools](#Инструменты----Tools)
 * [Отладочные платы -- Boards-and-kits](#Отладочные-платы----Boards)
 
 ***
@@ -25,7 +26,8 @@
 * [fpga4fun.com](https://www.fpga4fun.com/) - различные проекты на ПЛИС
 * [projectf.io](https://projectf.io/) - графика на FPGA
 
-
+# Инструменты -- Tools
+* [Testonica](https://qi.testonica.com/) - набор инструментов для тестирования изделий
 
 # Телеграм -- Telegram
 * [@fpgasystems](https://t.me/fpgasystems) - чат русскоязычного сообщества FPGA разработчиков
