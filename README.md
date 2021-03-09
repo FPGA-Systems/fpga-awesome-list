@@ -21,18 +21,18 @@
 ***
 
 # Сайты -- Web
-* [fpga-systems.ru](https://www.fpga-systems.ru) - русскоязычное сообщество FPGA разработчиков
-* [fpga4fun.com](https://www.fpga4fun.com/) - различные проекты на ПЛИС
-* [projectf.io](https://projectf.io/) - графика на FPGA
+* [fpga-systems.ru](#https://www.fpga-systems.ru) - русскоязычное сообщество FPGA разработчиков
+* [fpga4fun.com](#https://www.fpga4fun.com/) - различные проекты на ПЛИС
+* [projectf.io](#https://projectf.io/) - графика на FPGA
 
 
 
 # Телеграм -- Telegram
-* [@fpgasystems](https://t.me/fpgasystems) - чат русскоязычного сообщества FPGA разработчиков
+* [@fpgasystems](#https://t.me/fpgasystems) - чат русскоязычного сообщества FPGA разработчиков
 
 # Youtube
-* (FPGA Systems)(https://youtube.com/c/fpgasystems)
-* (NandLAnd)(https://www.youtube.com/channel/UCsdA-aNqtMA1_2T15aXePWw/videos)
+* (FPGA Systems)(#https://youtube.com/c/fpgasystems)
+* (NandLAnd)(#https://www.youtube.com/channel/UCsdA-aNqtMA1_2T15aXePWw/videos)
 
 # Отладочные платы / Boards and kits
 
