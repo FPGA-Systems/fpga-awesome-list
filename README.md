@@ -6,8 +6,9 @@
 Добовлять данные в список, предлагать категории и улучшения по юзабилити списка можно через pull request или написав на почту admin@fpga-systems.ru или в личном сообщении в телеграм @KeisN13
 
 #Сайты / Web
-*fpga-systems.ru - русскоязычное сообщество FPGA разработчиков
-*[fpga4fun.com](https://www.fpga4fun.com/)
+* [fpga-systems.ru](htpps://fpga-systems.ru) - русскоязычное сообщество FPGA разработчиков
+
+* [fpga4fun.com](https://www.fpga4fun.com/)
 
 #Телеграм / Telegram
 
