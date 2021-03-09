@@ -41,6 +41,6 @@
 * [Intro to FPGA and Verilog (RU)](https://www.youtube.com/watch?v=d-Swjqo8WZg&list=PLhtMaaf_npBz9zfsJMZC12Lk3zvHiJckr) - курс от ФРТК МФТИ
 
 
-# Отладочные платы / Boards and kits
+# Отладочные платы -- Boards and kits
 
 * [Second life for FPGA boards](https://github.com/iDoka/awesome-fpga-boards) - Repurposed FPGA boards which getting Second life in DYI or Hobby projects (e.g. as DevKit usage)
