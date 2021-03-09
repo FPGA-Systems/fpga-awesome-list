@@ -9,14 +9,14 @@
 (You can add data to the list, suggest categories and improve the usability of the list via pull request or by writing to the mail admin@fpga-systems.ru or in a personal message to telegram @KeisN13)
 
 # Оглавление -- Content
-* [Сайты | Web](#Сайты-|-Web)
+* [Сайты -- Web](#Сайты----Web)
 * [Телеграм -- Telegram](#Телеграм----Telegram)
 * [Youtube](#Youtube)
-* [Отладочные платы -- Boards](#Отладочные-платы----Boards)
+* [Отладочные платы -- Boards-and-kits](#Отладочные-платы----Boards)
 
 
 
-# Сайты | Web
+# Сайты -- Web
 * [fpga-systems.ru](https://www.fpga-systems.ru) - русскоязычное сообщество FPGA разработчиков
 
 * [fpga4fun.com](https://www.fpga4fun.com/)
@@ -26,5 +26,5 @@
 
 # Youtube
 
-# Отладочные платы / Boards
+# Отладочные платы / Boards and kits
 
