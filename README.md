@@ -25,6 +25,8 @@
 * [fpga-systems.ru](https://www.fpga-systems.ru) - русскоязычное сообщество FPGA разработчиков
 * [fpga4fun.com](https://www.fpga4fun.com/) - различные проекты на ПЛИС
 * [projectf.io](https://projectf.io/) - графика на FPGA
+* [zipcpu.com](https://zipcpu.com/) - про разработку процессора ZipCPU и др.
+* [beyond-circuits.com](https://www.beyond-circuits.com) - блог про FPGA
 
 # Инструменты -- Tools
 * [Testonica](https://qi.testonica.com/) - набор инструментов для тестирования изделий
