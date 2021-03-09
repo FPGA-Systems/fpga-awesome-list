@@ -41,6 +41,7 @@
 * [FPGA Systems](https://youtube.com/c/fpgasystems)
 * [NandLAnd](https://www.youtube.com/channel/UCsdA-aNqtMA1_2T15aXePWw/videos)
 * [Intro to FPGA and Verilog (RU)](https://www.youtube.com/watch?v=d-Swjqo8WZg&list=PLhtMaaf_npBz9zfsJMZC12Lk3zvHiJckr) - курс от ФРТК МФТИ
+* [NR.electronics](https://www.youtube.com/channel/UCTJacQ2o8eCe09OI0G7PIYw)
 
 
 # Отладочные платы -- Boards and kits
