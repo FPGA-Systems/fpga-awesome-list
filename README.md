@@ -28,9 +28,13 @@
 * [zipcpu.com](https://zipcpu.com/) - про разработку процессора ZipCPU и др.
 * [beyond-circuits.com](https://www.beyond-circuits.com) - блог про FPGA
 * [vhdlwhiz.com](https://vhdlwhiz.com/) - блог разработок про VHDL и курсы
+* [verificationguide.com](https://verificationguide.com/) - портал компетенций по SystemVerilog и UVM
+
 
 # Инструменты -- Tools
 * [Testonica](https://qi.testonica.com/) - набор инструментов для тестирования изделий
+* [Edaplayground](https://edaplayground.com/) - инструменты для моделирования, все известные симуляторы он-лайн
+* [Symbiflow](https://symbiflow.github.io/) - опенсорс тул для проектирования на FPGA
 
 # Телеграм -- Telegram
 * [@fpgasystems](https://t.me/fpgasystems) - чат русскоязычного сообщества FPGA разработчиков
@@ -43,6 +47,9 @@
 * [NandLAnd](https://www.youtube.com/channel/UCsdA-aNqtMA1_2T15aXePWw/videos)
 * [Intro to FPGA and Verilog (RU)](https://www.youtube.com/watch?v=d-Swjqo8WZg&list=PLhtMaaf_npBz9zfsJMZC12Lk3zvHiJckr) - курс от ФРТК МФТИ
 * [NR.electronics](https://www.youtube.com/channel/UCTJacQ2o8eCe09OI0G7PIYw)
+* [НТЦ Метротек](https://www.youtube.com/channel/UCRMROACTUVdOVWkx_PL86uA/featured) - лекции по FPGA на русском
+* [Mohammad S. Sadri](https://www.youtube.com/user/mamsadegh2) - однозначный мастхэв лекций по Zynq
+* 
 
 
 # Отладочные платы -- Boards and kits
