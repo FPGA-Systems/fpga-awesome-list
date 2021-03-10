@@ -30,6 +30,7 @@
 * [vhdlwhiz.com](https://vhdlwhiz.com/) - блог разработок про VHDL и курсы
 * [verificationguide.com](https://verificationguide.com/) - портал компетенций по SystemVerilog и UVM
 * [Adiuvoengineering](https://www.adiuvoengineering.com/) - персональный блог Адама Тейлора (Microzed Chronicles)
+* [fpga4student.com](https://www.fpga4student.com/) - портал с проектами на FPGA
 
 
 # Инструменты -- Tools
