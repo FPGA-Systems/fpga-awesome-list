@@ -29,6 +29,7 @@
 * [beyond-circuits.com](https://www.beyond-circuits.com) - блог про FPGA
 * [vhdlwhiz.com](https://vhdlwhiz.com/) - блог разработок про VHDL и курсы
 * [verificationguide.com](https://verificationguide.com/) - портал компетенций по SystemVerilog и UVM
+* [Adiuvoengineering](https://www.adiuvoengineering.com/) - персональный блог Адама Тейлора (Microzed Chronicles)
 
 
 # Инструменты -- Tools
