@@ -76,3 +76,7 @@
 * Миландр
 * GoWin
 * Microchip/Microsemi/Actel
+* Aeroflex
+* Fudan microelectronics
+* BMTI (Beijing microelectronics)
+* Интеграл
