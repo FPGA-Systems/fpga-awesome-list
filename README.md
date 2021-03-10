@@ -27,6 +27,7 @@
 * [projectf.io](https://projectf.io/) - графика на FPGA
 * [zipcpu.com](https://zipcpu.com/) - про разработку процессора ZipCPU и др.
 * [beyond-circuits.com](https://www.beyond-circuits.com) - блог про FPGA
+* [vhdlwhiz.com/](https://vhdlwhiz.com/) - блог разработок про VHDL и курсы
 
 # Инструменты -- Tools
 * [Testonica](https://qi.testonica.com/) - набор инструментов для тестирования изделий
