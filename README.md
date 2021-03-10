@@ -18,6 +18,7 @@
 * [Youtube](#Youtube)
 * [Инструменты -- Tools](#Инструменты----Tools)
 * [Отладочные платы -- Boards-and-kits](#Отладочные-платы----Boards)
+* [Производители FPGA -- FPGA Vendors](#Производители-FPGA----FPGA Vendors)
 
 ***
 
@@ -59,3 +60,16 @@
 # Отладочные платы -- Boards and kits
 
 * [Second life for FPGA boards](https://github.com/iDoka/awesome-fpga-boards) - Repurposed FPGA boards which getting Second life in DYI or Hobby projects (e.g. as DevKit usage)
+
+# Производители FPGA -- FPGA Vendors
+* AMD/Xilinx
+* Intel/Altera
+* Lattice
+* Achronix
+* Efinix
+* Anlogic
+* Quiklogic
+* ВЗПП-С
+* Миландр
+* GoWin
+* Microchip/Microsemi/Actel
