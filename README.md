@@ -30,6 +30,7 @@
 * [beyond-circuits.com](https://www.beyond-circuits.com) - блог про FPGA
 * [vhdlwhiz.com](https://vhdlwhiz.com/) - блог разработок про VHDL и курсы
 * [verificationguide.com](https://verificationguide.com/) - портал компетенций по SystemVerilog и UVM
+* [testbench.in](http://testbench.in) - сайт по UVM и OVM
 * [Adiuvoengineering](https://www.adiuvoengineering.com/) - персональный блог Адама Тейлора (Microzed Chronicles)
 * [fpga4student.com](https://www.fpga4student.com/) - портал с проектами на FPGA
 * [verificationacademy.com](https://verificationacademy.com/) - портал и центр компетенций по верификации FPGA проектов
@@ -60,6 +61,7 @@
 
 # Отладочные платы -- Boards and kits
 * [Second life for FPGA boards](https://github.com/iDoka/awesome-fpga-boards) - Repurposed FPGA boards which getting Second life in DYI or Hobby projects (e.g. as DevKit usage)
+* [rocketboards.org](https://rocketboards.org) - intel-овский сайт по отладкам на SoC Intel 
 
 
 # Производители FPGA -- FPGA Vendors
