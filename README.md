@@ -17,8 +17,8 @@
 * [Телеграм -- Telegram](#Телеграм----Telegram)
 * [Youtube](#Youtube)
 * [Инструменты -- Tools](#Инструменты----Tools)
-* [Отладочные платы -- Boards-and-kits](#Отладочные-платы----Boards)
-* [Производители FPGA -- FPGA Vendors](#Производители-FPGA----FPGA Vendors)
+* [Отладочные платы -- Boards-and-kits](#Отладочные-платы----Boards-and-kits)
+* [Производители FPGA -- FPGA Vendors](#Производители-FPGA----FPGA-Vendors)
 
 ***
 
@@ -35,16 +35,17 @@
 * [verificationacademy.com](https://verificationacademy.com/) - портал и центр компетенций по верификации FPGA проектов
 
 
+# Телеграм -- Telegram
+* [@fpgasystems](https://t.me/fpgasystems) - чат русскоязычного сообщества FPGA разработчиков
+* [@fpg**a**sic](https://t.me/fpgasic) - FPG[A]SIC tips and tricks
+* [@ipcores](https://t.me/ipcores) - Collection of IP-cores for FPGA & ASIC written on Verilog/VHDL
+
+
 # Инструменты -- Tools
 * [Testonica](https://qi.testonica.com/) - набор инструментов для тестирования изделий
 * [Edaplayground](https://edaplayground.com/) - инструменты для моделирования, все известные симуляторы он-лайн
 * [Symbiflow](https://symbiflow.github.io/) - опенсорс тул для проектирования на FPGA
 * [Yosys](https://github.com/YosysHQ/yosys) - опенсорс синтезатор (Open SYnthesis Suite)
-
-# Телеграм -- Telegram
-* [@fpgasystems](https://t.me/fpgasystems) - чат русскоязычного сообщества FPGA разработчиков
-* [@fpg**a**sic](https://t.me/fpgasic) - FPG[A]SIC tips and tricks
-* [@ipcores](https://t.me/ipcores) - Collection of IP-cores for FPGA & ASIC written on Verilog/VHDL
 
 
 # Youtube
@@ -58,8 +59,8 @@
 
 
 # Отладочные платы -- Boards and kits
-
 * [Second life for FPGA boards](https://github.com/iDoka/awesome-fpga-boards) - Repurposed FPGA boards which getting Second life in DYI or Hobby projects (e.g. as DevKit usage)
+
 
 # Производители FPGA -- FPGA Vendors
 * AMD/Xilinx
