@@ -31,6 +31,7 @@
 * [verificationguide.com](https://verificationguide.com/) - портал компетенций по SystemVerilog и UVM
 * [Adiuvoengineering](https://www.adiuvoengineering.com/) - персональный блог Адама Тейлора (Microzed Chronicles)
 * [fpga4student.com](https://www.fpga4student.com/) - портал с проектами на FPGA
+* [verificationacademy.com](https://verificationacademy.com/) - портал и центр компетенций по верификации FPGA проектов
 
 
 # Инструменты -- Tools
