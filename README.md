@@ -35,6 +35,7 @@
 * [Testonica](https://qi.testonica.com/) - набор инструментов для тестирования изделий
 * [Edaplayground](https://edaplayground.com/) - инструменты для моделирования, все известные симуляторы он-лайн
 * [Symbiflow](https://symbiflow.github.io/) - опенсорс тул для проектирования на FPGA
+* [Yosys](https://github.com/YosysHQ/yosys) - опенсорс синтезатор (Open SYnthesis Suite)
 
 # Телеграм -- Telegram
 * [@fpgasystems](https://t.me/fpgasystems) - чат русскоязычного сообщества FPGA разработчиков
