@@ -81,18 +81,20 @@
 
 
 # Производители FPGA -- FPGA Vendors
-* AMD/Xilinx
-* Intel/Altera
-* Lattice
-* Achronix
-* Efinix
-* Anlogic
-* Quiklogic
-* ВЗПП-С
-* Миландр
-* GoWin
-* Microchip/Microsemi/Actel
+* [AMD/Xilinx](https://www.xilinx.com/)
+* [Intel/Altera](https://www.intel.com/content/www/us/en/products/programmable.html)
+* [Lattice](https://www.latticesemi.com/)
+* [Achronix](https://www.achronix.com/)
+* [Efinix](https://efinixinc.com/)
+* [Anlogic](http://www.anlogic.com/)
+* [Quiklogic](https://www.quicklogic.com/)
+* [ВЗПП-С](http://www.vzpp-s.ru/)
+* [Миландр](https://www.milandr.ru/)
+* [GoWin](https://www.gowinsemi.com/)
+* [Microchip/Microsemi/Actel](https://www.microchip.com/en-us/products/fpgas-and-plds)
 * Aeroflex
 * Fudan microelectronics
 * BMTI (Beijing microelectronics)
-* Интеграл
+* [Интеграл](https://www.integral.by/ru/products/bmk-i-plis)
+* [Cologne Chip](https://www.colognechip.com/)
+* [NanoXplore](https://nanoxplore.com/)
