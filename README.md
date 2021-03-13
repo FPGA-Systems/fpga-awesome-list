@@ -34,6 +34,12 @@
 * [Adiuvoengineering](https://www.adiuvoengineering.com/) - персональный блог Адама Тейлора (Microzed Chronicles)
 * [fpga4student.com](https://www.fpga4student.com/) - портал с проектами на FPGA
 * [verificationacademy.com](https://verificationacademy.com/) - портал и центр компетенций по верификации FPGA проектов
+* [Opencores](https://opencores.org/) - Сайт сообщества Opencores, описания этого сообщества есть на [русской вики](https://ru.wikipedia.org/wiki/OpenCores)
+* [Chisel](https://github.com/chipsalliance/chisel3) - Проект chisel3 для написания rtl на языке Scala.
+* [SpinalHDL](https://github.com/SpinalHDL/SpinalHDL) - проект для написания rtl на Scala
+* [Asic World](https://www.asic-world.com/systemverilog/index.html) - англоязычный сайт про System Verilog
+* [chipverify.com](https://www.chipverify.com/) - англоязычный сайт про System Verilog 
+* 
 
 
 # Телеграм -- Telegram
@@ -47,6 +53,16 @@
 * [Edaplayground](https://edaplayground.com/) - инструменты для моделирования, все известные симуляторы он-лайн
 * [Symbiflow](https://symbiflow.github.io/) - опенсорс тул для проектирования на FPGA
 * [Yosys](https://github.com/YosysHQ/yosys) - опенсорс синтезатор (Open SYnthesis Suite)
+* [FloPoCo](https://gitlab.inria.fr/fdupont/flopoco) - FloPoCo предлагает более 50 операторов с фиксированной или плавающей запятой, каждый из которых параметризован по точности и также и по целевой частоте для ПЛИС
+* [WaveDrom](https://wavedrom.com/) - Удобное приложение для рисование временных диаграмм. 
+* [The-OpenROAD-Project](https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts) - Комплекс программ для проведения логического синтеза и топологии кристалла
+* [Digital](https://github.com/hneemann/Digital) - Программа для построения и симуляции простых логических схем
+* [cocotb](https://github.com/cocotb/cocotb) - Библиотека косимуляции и проведения тестирования для Python
+* [icarus.com](http://iverilog.icarus.com/) - Бесплатный симулятор Verilog
+* [GHDL](https://github.com/ghdl/ghdl) - Бесплатный симулятор VHDL
+* [NVC](https://github.com/nickg/nvc) - Еще один компилятор и симулятор для VHDL
+* [GTKWave](https://github.com/gtkwave/gtkwave) - Программа для просмотра временных диаграмм
+
 
 
 # Youtube
