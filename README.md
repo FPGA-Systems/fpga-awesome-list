@@ -39,6 +39,8 @@
 * [SpinalHDL](https://github.com/SpinalHDL/SpinalHDL) - проект для написания rtl на Scala
 * [Asic World](https://www.asic-world.com/systemverilog/index.html) - англоязычный сайт про System Verilog
 * [chipverify.com](https://www.chipverify.com/) - англоязычный сайт про System Verilog 
+* [FPGA designs with Verilog](https://verilogguide.readthedocs.io/en/latest/index.html) - руководсто по языку Verilog с примерами
+* [FPGA designs with VHDL](https://vhdlguide.readthedocs.io/en/latest/index.html) - руководсто по языку VHDL с примерами
 * 
 
 
