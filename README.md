@@ -39,8 +39,8 @@
 * [SpinalHDL](https://github.com/SpinalHDL/SpinalHDL) - проект для написания rtl на Scala
 * [Asic World](https://www.asic-world.com/systemverilog/index.html) - англоязычный сайт про System Verilog
 * [chipverify.com](https://www.chipverify.com/) - англоязычный сайт про System Verilog 
-* [FPGA designs with Verilog](https://verilogguide.readthedocs.io/en/latest/index.html) - руководсто по языку Verilog с примерами
-* [FPGA designs with VHDL](https://vhdlguide.readthedocs.io/en/latest/index.html) - руководсто по языку VHDL с примерами
+* [FPGA designs with Verilog](https://verilogguide.readthedocs.io/en/latest/index.html) - руководство по языку Verilog с примерами
+* [FPGA designs with VHDL](https://vhdlguide.readthedocs.io/en/latest/index.html) - руководство по языку VHDL с примерами
 * 
 
 
@@ -56,7 +56,7 @@
 * [Symbiflow](https://symbiflow.github.io/) - опенсорс тул для проектирования на FPGA
 * [Yosys](https://github.com/YosysHQ/yosys) - опенсорс синтезатор (Open SYnthesis Suite)
 * [FloPoCo](https://gitlab.inria.fr/fdupont/flopoco) - FloPoCo предлагает более 50 операторов с фиксированной или плавающей запятой, каждый из которых параметризован по точности и также и по целевой частоте для ПЛИС
-* [WaveDrom](https://wavedrom.com/) - Удобное приложение для рисование временных диаграмм. 
+* [WaveDrom](https://wavedrom.com/) - Удобное приложение для рисования временных диаграмм. 
 * [The-OpenROAD-Project](https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts) - Комплекс программ для проведения логического синтеза и топологии кристалла
 * [Digital](https://github.com/hneemann/Digital) - Программа для построения и симуляции простых логических схем
 * [cocotb](https://github.com/cocotb/cocotb) - Библиотека косимуляции и проведения тестирования для Python
