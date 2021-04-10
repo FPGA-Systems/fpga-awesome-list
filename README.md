@@ -41,7 +41,7 @@
 * [chipverify.com](https://www.chipverify.com/) - англоязычный сайт про System Verilog 
 * [FPGA designs with Verilog](https://verilogguide.readthedocs.io/en/latest/index.html) - руководство по языку Verilog с примерами
 * [FPGA designs with VHDL](https://vhdlguide.readthedocs.io/en/latest/index.html) - руководство по языку VHDL с примерами
-* 
+* [HDLbits](https://hdlbits.01xz.net/wiki/Main_Page) - сборник небольших схемотехнических упражнений для практики проектирования цифрового оборудования с использованием Verilog
 
 
 # Телеграм -- Telegram
