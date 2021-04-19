@@ -48,7 +48,8 @@
 * [FPGA designs with VHDL](https://vhdlguide.readthedocs.io/en/latest/index.html) - руководство по языку VHDL с примерами
 * [HDLbits](https://hdlbits.01xz.net/wiki/Main_Page) - сборник небольших схемотехнических упражнений для практики проектирования цифрового оборудования с использованием Verilog
 * [Марсоход](https://marsohod.org/) - Сообщество, созданное профессиональными разработчиками устройств на базе FPGA и CPLD компании Altera/Intel
-* [Sunburst Design] (http://www.sunburst-design.com/papers/) - сайт с интересными статьями по Veriog и SystemVerilog, OVM/UVM
+* [Sunburst Design](http://www.sunburst-design.com/papers/) - сайт с интересными статьями по Veriog и SystemVerilog, OVM/UVM
+* [Knowledge Base Numato Lab](https://numato.com/kb/) - ряд обучающих проектов для конкретных индийских отладок с пошаговым описанием
 
 
 # Инструменты -- Tools
@@ -76,7 +77,7 @@
 * [НТЦ Метротек](https://www.youtube.com/channel/UCRMROACTUVdOVWkx_PL86uA/featured) - лекции по FPGA на русском
 * [Mohammad S. Sadri](https://www.youtube.com/user/mamsadegh2) - однозначный мастхэв лекций по Zynq
 * [Канал Vipin Kizheppatt](https://www.youtube.com/channel/UCXwcHOQ2ktHdERXNKCpmWnQ) с неплохими мини-лекциями по FPGA в целом и работе с Zedboard
-* [Knowledge Base Numato Lab] (https://numato.com/kb/) - ряд обучающих проектов для конкретных индийских отладок с пошаговым описанием
+* 
 
 
 # Отладочные платы -- Boards and kits
