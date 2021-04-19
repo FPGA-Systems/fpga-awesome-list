@@ -13,14 +13,19 @@
 ***
 
 # Оглавление -- Content
-* [Сайты -- Web](#Сайты----Web)
 * [Телеграм -- Telegram](#Телеграм----Telegram)
+* [Сайты -- Web](#Сайты----Web)
 * [Youtube](#Youtube)
 * [Инструменты -- Tools](#Инструменты----Tools)
 * [Отладочные платы -- Boards-and-kits](#Отладочные-платы----Boards-and-kits)
 * [Производители FPGA -- FPGA Vendors](#Производители-FPGA----FPGA-Vendors)
 
 ***
+# Телеграм -- Telegram
+* [@fpgasystems](https://t.me/fpgasystems) - чат русскоязычного сообщества FPGA разработчиков
+* [@fpg**a**sic](https://t.me/fpgasic) - FPG[A]SIC tips and tricks
+* [@ipcores](https://t.me/ipcores) - Collection of IP-cores for FPGA & ASIC written on Verilog/VHDL
+
 
 # Сайты -- Web
 * [fpga-systems.ru](https://www.fpga-systems.ru) - русскоязычное сообщество FPGA разработчиков
@@ -42,12 +47,7 @@
 * [FPGA designs with Verilog](https://verilogguide.readthedocs.io/en/latest/index.html) - руководство по языку Verilog с примерами
 * [FPGA designs with VHDL](https://vhdlguide.readthedocs.io/en/latest/index.html) - руководство по языку VHDL с примерами
 * [HDLbits](https://hdlbits.01xz.net/wiki/Main_Page) - сборник небольших схемотехнических упражнений для практики проектирования цифрового оборудования с использованием Verilog
-
-
-# Телеграм -- Telegram
-* [@fpgasystems](https://t.me/fpgasystems) - чат русскоязычного сообщества FPGA разработчиков
-* [@fpg**a**sic](https://t.me/fpgasic) - FPG[A]SIC tips and tricks
-* [@ipcores](https://t.me/ipcores) - Collection of IP-cores for FPGA & ASIC written on Verilog/VHDL
+* [Марсоход](https://marsohod.org/) - Сообщество, созданное профессиональными разработчиками устройств на базе FPGA и CPLD компании Altera/Intel
 
 
 # Инструменты -- Tools
@@ -74,7 +74,8 @@
 * [NR.electronics](https://www.youtube.com/channel/UCTJacQ2o8eCe09OI0G7PIYw)
 * [НТЦ Метротек](https://www.youtube.com/channel/UCRMROACTUVdOVWkx_PL86uA/featured) - лекции по FPGA на русском
 * [Mohammad S. Sadri](https://www.youtube.com/user/mamsadegh2) - однозначный мастхэв лекций по Zynq
-* 
+* [Канал Vipin Kizheppatt](https://www.youtube.com/channel/UCXwcHOQ2ktHdERXNKCpmWnQ) с неплохими мини-лекциями по FPGA в целом и работе с Zedboard
+* [Knowledge Base Numato Lab] (https://numato.com/kb/) - ряд обучающих проектов для конкретных индийских отладок с пошаговым описанием
 
 
 # Отладочные платы -- Boards and kits
