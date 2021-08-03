@@ -93,7 +93,7 @@
 * [Achronix](https://www.achronix.com/)
 * [Efinix](https://efinixinc.com/)
 * [Anlogic](http://www.anlogic.com/)
-* [Quiklogic](https://www.quicklogic.com/)
+* [Quicklogic](https://www.quicklogic.com/)
 * [ВЗПП-С](http://www.vzpp-s.ru/)
 * [Миландр](https://www.milandr.ru/)
 * [GoWin](https://www.gowinsemi.com/)
