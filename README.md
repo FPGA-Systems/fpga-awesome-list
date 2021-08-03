@@ -104,6 +104,7 @@
 * [Интеграл](https://www.integral.by/ru/products/bmk-i-plis)
 * [Cologne Chip](https://www.colognechip.com/)
 * [NanoXplore](https://nanoxplore.com/)
+* [Pangomicro](https://pangomicro.com/index.html)
 
 # Производители eFPGA -- eFPGA Vendors
 * [Menta](https://www.menta-efpga.com/)
