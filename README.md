@@ -15,6 +15,7 @@
 # Оглавление -- Content
 * [Телеграм -- Telegram](#Телеграм----Telegram)
 * [Сайты -- Web](#Сайты----Web)
+* [Группы и сообщества -- Groups and Communities](#Группы-и-сообщества----Groups-and-Communities)
 * [Youtube](#Youtube)
 * [Инструменты -- Tools](#Инструменты----Tools)
 * [Отладочные платы -- Boards-and-kits](#Отладочные-платы----Boards-and-kits)
@@ -52,6 +53,8 @@
 * [Sunburst Design](http://www.sunburst-design.com/papers/) - сайт с интересными статьями по Veriog и SystemVerilog, OVM/UVM
 * [Knowledge Base Numato Lab](https://numato.com/kb/) - ряд обучающих проектов для конкретных индийских отладок с пошаговым описанием
 
+# Группы и сообщества -- Groups and Communities
+* [Verilog Master - LinkedIn](https://www.linkedin.com/in/verilog-master-82071b222/)
 
 # Инструменты -- Tools
 * [Testonica](https://qi.testonica.com/) - набор инструментов для тестирования изделий
