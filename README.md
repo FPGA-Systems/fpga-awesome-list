@@ -52,6 +52,7 @@
 * [Марсоход](https://marsohod.org/) - Сообщество, созданное профессиональными разработчиками устройств на базе FPGA и CPLD компании Altera/Intel
 * [Sunburst Design](http://www.sunburst-design.com/papers/) - сайт с интересными статьями по Veriog и SystemVerilog, OVM/UVM
 * [Knowledge Base Numato Lab](https://numato.com/kb/) - ряд обучающих проектов для конкретных индийских отладок с пошаговым описанием
+* [RTL Audio Blog](https://rtlaudiolab.com/) - блог с различным RTL для работы со звуком
 
 # Группы и сообщества -- Groups and Communities
 * [Verilog Master - LinkedIn](https://www.linkedin.com/in/verilog-master-82071b222/)
