@@ -72,6 +72,7 @@
 * [GHDL](https://github.com/ghdl/ghdl) - Бесплатный симулятор VHDL
 * [NVC](https://github.com/nickg/nvc) - Еще один компилятор и симулятор для VHDL
 * [GTKWave](https://github.com/gtkwave/gtkwave) - Программа для просмотра временных диаграмм
+* [Corsair](https://github.com/esynr3z/corsair) - удобнейший генератор карты регистров, rtl, С хедеров и пр.
 
 
 
