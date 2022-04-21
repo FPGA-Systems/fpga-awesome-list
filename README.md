@@ -111,6 +111,7 @@
 * [Cologne Chip](https://www.colognechip.com/)
 * [NanoXplore](https://nanoxplore.com/)
 * [Pangomicro](https://pangomicro.com/index.html)
+* [AGM micro](http://www.agm-micro.com/default.aspx?lang=)
 
 # Производители eFPGA -- eFPGA Vendors
 * [Menta](https://www.menta-efpga.com/)
