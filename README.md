@@ -112,6 +112,7 @@
 * [NanoXplore](https://nanoxplore.com/)
 * [Pangomicro](https://pangomicro.com/index.html)
 * [AGM micro](http://www.agm-micro.com/default.aspx?lang=)
+* [iSiliconTech](http://www.isilicontech.com)
 
 # Производители eFPGA -- eFPGA Vendors
 * [Menta](https://www.menta-efpga.com/)
