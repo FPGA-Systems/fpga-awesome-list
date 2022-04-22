@@ -119,3 +119,4 @@
 * [Menta](https://www.menta-efpga.com/)
 * [Flexlogix](https://flex-logix.com/)
 * [Achronix](https://www.achronix.com/)
+* [AdicSys](http://www.adicsys.com/)
