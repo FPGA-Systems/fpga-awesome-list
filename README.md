@@ -86,7 +86,7 @@
 * [НТЦ Метротек](https://www.youtube.com/channel/UCRMROACTUVdOVWkx_PL86uA/featured) - лекции по FPGA на русском
 * [Mohammad S. Sadri](https://www.youtube.com/user/mamsadegh2) - однозначный мастхэв лекций по Zynq
 * [Канал Vipin Kizheppatt](https://www.youtube.com/channel/UCXwcHOQ2ktHdERXNKCpmWnQ) с неплохими мини-лекциями по FPGA в целом и работе с Zedboard
-* [Here is Anatolii…](*https://www.youtube.com/channel/UC12hPqSKKvIEmYPw7hyG2HA)
+* [Here is Anatolii…](https://www.youtube.com/channel/UC12hPqSKKvIEmYPw7hyG2HA)
 
 
 # Отладочные платы -- Boards and kits
