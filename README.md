@@ -54,6 +54,7 @@
 * [Knowledge Base Numato Lab](https://numato.com/kb/) - ряд обучающих проектов для конкретных индийских отладок с пошаговым описанием
 * [RTL Audio Blog](https://rtlaudiolab.com/) - блог с различным RTL для работы со звуком
 * [Muhammed Kocaoğlu blog on Medium](https://medium.com/@kocamuha) - блог инженера разработчика FPGA
+* [Makarena Labs](https://www.makarenalabs.com/news/) - туториалы по Pynq
 
 # Группы и сообщества -- Groups and Communities
 * [Verilog Master - LinkedIn](https://www.linkedin.com/in/verilog-master-82071b222/)
