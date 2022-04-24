@@ -117,6 +117,7 @@
 * [AGM micro](http://www.agm-micro.com/default.aspx?lang=)
 * [iSiliconTech](http://www.isilicontech.com)
 * [Renesas/Dialog](https://www.dialog-semiconductor.com/products/greenpak/low-power-low-cost-forgefpga)
+* Infineon/Cyress - Please help find relative linnks on PSoC with FPGA (my email - admin@fpga-systems.ru). Thanks.
 
 # Производители eFPGA -- eFPGA Vendors
 * [Menta](https://www.menta-efpga.com/)
