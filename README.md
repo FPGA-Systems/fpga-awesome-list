@@ -75,6 +75,7 @@
 * [GTKWave](https://github.com/gtkwave/gtkwave) - Программа для просмотра временных диаграмм
 * [Corsair](https://github.com/esynr3z/corsair) - удобнейший генератор карты регистров, rtl, С хедеров и пр.
 * [VMAccel](https://www.vmaccel.com/) - Fully Customizable FPGA Cloud Solutions
+* [Tesil](https://www.tensil.ai) — open source ML accelerator framework for FPGAs
 
 
 
