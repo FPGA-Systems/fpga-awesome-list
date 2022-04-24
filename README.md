@@ -115,6 +115,7 @@
 * [Pangomicro](https://pangomicro.com/index.html)
 * [AGM micro](http://www.agm-micro.com/default.aspx?lang=)
 * [iSiliconTech](http://www.isilicontech.com)
+* [Renesas/Dialog](https://www.dialog-semiconductor.com/products/greenpak/low-power-low-cost-forgefpga)
 
 # Производители eFPGA -- eFPGA Vendors
 * [Menta](https://www.menta-efpga.com/)
