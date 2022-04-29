@@ -77,6 +77,7 @@
 * [Corsair](https://github.com/esynr3z/corsair) - удобнейший генератор карты регистров, rtl, С хедеров и пр.
 * [VMAccel](https://www.vmaccel.com/) - Fully Customizable FPGA Cloud Solutions
 * [Tesil](https://www.tensil.ai) — open source ML accelerator framework for FPGAs
+* [pyMTL](https://github.com/pymtl/pymtl3) - PyMTL 3 (Mamba) is the latest version of PyMTL, an open-source Python-based hardware generation, simulation, and verification framework with multi-level hardware modeling support.
 
 
 
