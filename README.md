@@ -56,6 +56,7 @@
 * [Muhammed Kocaoğlu blog on Medium](https://medium.com/@kocamuha) - блог инженера разработчика FPGA
 * [Makarena Labs](https://www.makarenalabs.com/news/) - туториалы по Pynq
 * [FPGA Tutorial](https://fpgatutorial.com/) - Learn the Basics of FPGA Design. Explore our free and comprehensive tutorials covering four of the major programming languages which are used in the design and verification of FPGAs.
+* [itsembedded](*https://www.itsembedded.com/dhd_list/)*)Блог инженера Norbertas Kremeris по проектированию и верификации цифровой логики со статьями об использовании "Verilator and C++ testbenches" и "Vivado Simulator Scripted Flow (Bash, Makefiles)"
 
 # Группы и сообщества -- Groups and Communities
 * [Verilog Master - LinkedIn](https://www.linkedin.com/in/verilog-master-82071b222/)
