@@ -1,10 +1,8 @@
 # fpga-awesome-list
 |Полезные ресурсы по тематике FPGA / ПЛИС | (useful FPGA resources)|
 |---|---|
-|1|2|
 |Все желающие могут помочь в составлении списка полезных информационных ресурсов по тематике FPGA / ПЛИС - сайты, youtube каналы, инструменты разработки, книги, отладочные платы и тд.|Everyone can help in compiling a list of useful information resources on the subject of FPGA - web sites, youtube channels, development tools, books, debugging boards, and so on.|
-|
-Добавлять данные в список, предлагать категории и улучшения по юзабилити списка можно через pull request или написав на почту admin@fpga-systems.ru или в личном сообщении в телеграм @KeisN13|You can add data to the list, suggest categories and improve the usability of the list via pull request or by writing to the mail admin@fpga-systems.ru or in a personal message to telegram @KeisN13
+Добавлять данные в список, предлагать категории и улучшения по юзабилити списка можно через pull request или написав на почту admin@fpga-systems.ru или в личном сообщении в телеграм @KeisN13|You can add data to the list, suggest categories and improve the usability of the list via pull request or by writing to the mail admin@fpga-systems.ru or in a personal message to telegram @KeisN13|
 ***
 
 # Оглавление -- Content
