@@ -1,15 +1,10 @@
 # fpga-awesome-list
-Полезные ресурсы по тематике FPGA / ПЛИС
-
-(useful FPGA resources)
-
-Все желающие могут помочь в составлении списка полезных информационных ресурсов по тематике FPGA / ПЛИС - сайты, youtube каналы, инструменты разработки, книги, отладочные платы и тд.
-
-(Everyone can help in compiling a list of useful information resources on the subject of FPGA - web sites, youtube channels, development tools, books, debugging boards, and so on.)
-
-Добавлять данные в список, предлагать категории и улучшения по юзабилити списка можно через pull request или написав на почту admin@fpga-systems.ru или в личном сообщении в телеграм @KeisN13
-
-(You can add data to the list, suggest categories and improve the usability of the list via pull request or by writing to the mail admin@fpga-systems.ru or in a personal message to telegram @KeisN13)
+|Полезные ресурсы по тематике FPGA / ПЛИС | (useful FPGA resources)|
+|---|---|
+|1|2|
+|Все желающие могут помочь в составлении списка полезных информационных ресурсов по тематике FPGA / ПЛИС - сайты, youtube каналы, инструменты разработки, книги, отладочные платы и тд.|Everyone can help in compiling a list of useful information resources on the subject of FPGA - web sites, youtube channels, development tools, books, debugging boards, and so on.|
+|
+Добавлять данные в список, предлагать категории и улучшения по юзабилити списка можно через pull request или написав на почту admin@fpga-systems.ru или в личном сообщении в телеграм @KeisN13|You can add data to the list, suggest categories and improve the usability of the list via pull request or by writing to the mail admin@fpga-systems.ru or in a personal message to telegram @KeisN13
 ***
 
 # Оглавление -- Content
@@ -27,6 +22,7 @@
 * [@fpgasystems](https://t.me/fpgasystems) - чат русскоязычного сообщества FPGA разработчиков
 * [@fpg**a**sic](https://t.me/fpgasic) - FPG[A]SIC tips and tricks
 * [@ipcores](https://t.me/ipcores) - Collection of IP-cores for FPGA & ASIC written on Verilog/VHDL
+* [FPGAcommunity](https://t.me/ipcores) - FPGA developers community
 
 
 # Сайты -- Web
@@ -58,6 +54,7 @@
 * [FPGA Tutorial](https://fpgatutorial.com/) - Learn the Basics of FPGA Design. Explore our free and comprehensive tutorials covering four of the major programming languages which are used in the design and verification of FPGAs.
 * [itsembedded](https://www.itsembedded.com/dhd_list/) - Блог инженера Norbertas Kremeris по проектированию и верификации цифровой логики со статьями об использовании "Verilator and C++ testbenches" и "Vivado Simulator Scripted Flow (Bash, Makefiles)"
 * [electgon](https://electgon.com/) - Electgon started with the intention of providing knowledge and tools for electronics engineers and entities as a trial of enriching this field.
+* [electronix](https://electronix.ru/forum/) - один из крупнейших русскоязычных форумов по электронике, в т.ч. и ПЛИС
 
 # Группы и сообщества -- Groups and Communities
 * [Verilog Master - LinkedIn](https://www.linkedin.com/in/verilog-master-82071b222/)
