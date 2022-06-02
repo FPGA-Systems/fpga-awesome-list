@@ -121,6 +121,7 @@
 * CECT58 - send me info if you have (my email - admin@fpga-systems.ru)
 * [eHiway](http://www.ehiway.cn/)
 * [Hercules Microelectronics](http://hercules-micro.com/)
+* [Конструкторско-технологический центр «ЭЛЕКТРОНИКА»](https://www.edc-electronics.ru/)
 
 # Производители eFPGA -- eFPGA Vendors
 * [Menta](https://www.menta-efpga.com/)
