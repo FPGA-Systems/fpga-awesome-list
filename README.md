@@ -120,7 +120,7 @@
 * Infineon/Cypress - Please help find relative linnks on PSoC with FPGA (my email - admin@fpga-systems.ru). Thanks.
 * CECT58 - send me info if you have (my email - admin@fpga-systems.ru)
 * [eHiway](http://www.ehiway.cn/)
-* [Hercules-micro](http://hercules-micro.com/)
+* [Hercules Microelectronics](http://hercules-micro.com/)
 
 # Производители eFPGA -- eFPGA Vendors
 * [Menta](https://www.menta-efpga.com/)
