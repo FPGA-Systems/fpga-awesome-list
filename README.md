@@ -122,6 +122,7 @@
 * [eHiway](http://www.ehiway.cn/)
 * [Hercules Microelectronics](http://hercules-micro.com/)
 * [Конструкторско-технологический центр «ЭЛЕКТРОНИКА»](https://www.edc-electronics.ru/)
+* [Rapid Silicon](https://rapidsilicon.com/)
 
 # Производители eFPGA -- eFPGA Vendors
 * [Menta](https://www.menta-efpga.com/)
