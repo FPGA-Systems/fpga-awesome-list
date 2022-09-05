@@ -12,6 +12,7 @@
 * [Youtube](#Youtube)
 * [Инструменты -- Tools](#Инструменты----Tools)
 * [Отладочные платы -- Boards-and-kits](#Отладочные-платы----Boards-and-kits)
+* [Githubs -- Гитхабы](#Githubs----Гитабы)
 * [Производители FPGA -- FPGA Vendors](#Производители-FPGA----FPGA-Vendors)
 * [Производители eFPGA -- eFPGA Vendors](#Производители-eFPGA----eFPGA-Vendors)
 
@@ -94,6 +95,8 @@
 * [Second life for FPGA boards](https://github.com/iDoka/awesome-fpga-boards) - Repurposed FPGA boards which getting Second life in DYI or Hobby projects (e.g. as DevKit usage)
 * [rocketboards.org](https://rocketboards.org) - intel-овский сайт по отладкам на SoC Intel 
 
+# Githubs -- Гитабы
+* [From Blinker to RISC-V](https://github.com/BrunoLevy/learn-fpga/tree/master/FemtoRV/TUTORIALS/FROM_BLINKER_TO_RISCV#readme)
 
 # Производители FPGA -- FPGA Vendors
 * [AMD/Xilinx](https://www.xilinx.com/)
