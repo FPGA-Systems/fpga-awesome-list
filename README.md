@@ -21,7 +21,7 @@
 * [@fpgasystems](https://t.me/fpgasystems) - чат русскоязычного сообщества FPGA разработчиков
 * [@fpg**a**sic](https://t.me/fpgasic) - FPG[A]SIC tips and tricks
 * [@ipcores](https://t.me/ipcores) - Collection of IP-cores for FPGA & ASIC written on Verilog/VHDL
-* [FPGAcommunity](https://t.me/ipcores) - FPGA developers community
+* [FPGAcommunity](https://t.me/fpgacommunity) - FPGA developers community
 
 
 # Сайты -- Web
