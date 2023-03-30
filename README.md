@@ -126,6 +126,7 @@
 * [Hercules Microelectronics](http://hercules-micro.com/)
 * [Конструкторско-технологический центр «ЭЛЕКТРОНИКА»](https://www.edc-electronics.ru/)
 * [Rapid Silicon](https://rapidsilicon.com/)
+* [INGKE TECHNOLOGY CO.,LTD](https://www.ingkechips.com/index.php?route=product/search&search=fpga)
 
 # Производители eFPGA -- eFPGA Vendors
 * [Menta](https://www.menta-efpga.com/)
