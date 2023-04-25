@@ -54,6 +54,7 @@
 * [itsembedded](https://www.itsembedded.com/dhd_list/) - Блог инженера Norbertas Kremeris по проектированию и верификации цифровой логики со статьями об использовании "Verilator and C++ testbenches" и "Vivado Simulator Scripted Flow (Bash, Makefiles)"
 * [electgon](https://electgon.com/) - Electgon started with the intention of providing knowledge and tools for electronics engineers and entities as a trial of enriching this field.
 * [electronix](https://electronix.ru/forum/) - один из крупнейших русскоязычных форумов по электронике, в т.ч. и ПЛИС
+* [VHDL потрал для студентов и разработчиков](http://vhdl.bas-net.by/) - справочник по VHDL
 
 # Группы и сообщества -- Groups and Communities
 * [Verilog Master - LinkedIn](https://www.linkedin.com/in/verilog-master-82071b222/)
