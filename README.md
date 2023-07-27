@@ -56,6 +56,7 @@
 * [electronix](https://electronix.ru/forum/) - один из крупнейших русскоязычных форумов по электронике, в т.ч. и ПЛИС
 * [VHDL потрал для студентов и разработчиков](http://vhdl.bas-net.by/) - справочник по VHDL
 * [Learn FPGA easy](https://learn-fpga-easily.com/)
+* [Tang Nano Project Series](https://learn.lushaylabs.com/)
 
 # Группы и сообщества -- Groups and Communities
 * [Verilog Master - LinkedIn](https://www.linkedin.com/in/verilog-master-82071b222/)
