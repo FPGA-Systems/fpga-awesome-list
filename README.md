@@ -81,6 +81,7 @@
 * [Tesil](https://www.tensil.ai) — open source ML accelerator framework for FPGAs
 * [pyMTL](https://github.com/pymtl/pymtl3) - PyMTL 3 (Mamba) is the latest version of PyMTL, an open-source Python-based hardware generation, simulation, and verification framework with multi-level hardware modeling support.
 * [Verissimo](https://dvteclipse.com/products/verissimo-linter) - Verissimo SystemVerilog Testbench Linter is a coding guideline and verification methodology compliance checker that enables engineers to perform a thorough audit of their testbenches.
+* [DigitalJS](https://digitaljs.tilk.eu/) - the DigitalJS digital logic simulator and the yosys2digitaljs netlist format converter,
 
 
 
