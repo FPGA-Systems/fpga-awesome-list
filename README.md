@@ -101,6 +101,7 @@
 * [rocketboards.org](https://rocketboards.org) - intel-овский сайт по отладкам на SoC Intel 
 
 # Githubs -- Гитабы
+* [basic_verilog](https://github.com/pConst/basic_verilog) - Must-have Verilog SystemVerilog modules
 * [From Blinker to RISC-V](https://github.com/BrunoLevy/learn-fpga/tree/master/FemtoRV/TUTORIALS/FROM_BLINKER_TO_RISCV#readme)
 
 # Производители FPGA -- FPGA Vendors
