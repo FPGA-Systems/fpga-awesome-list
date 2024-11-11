@@ -58,6 +58,7 @@
 * [Learn FPGA easy](https://learn-fpga-easily.com/)
 * [Tang Nano Project Series](https://learn.lushaylabs.com/)
 * [01signal](https://www.01signal.com/)
+* [FPGAacademy](https://fpgacademy.org/)
 
 # Группы и сообщества -- Groups and Communities
 * [Verilog Master - LinkedIn](https://www.linkedin.com/in/verilog-master-82071b222/)
