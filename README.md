@@ -41,9 +41,7 @@
 * [Chisel](https://github.com/chipsalliance/chisel3) - Проект chisel3 для написания rtl на языке Scala.
 * [SpinalHDL](https://github.com/SpinalHDL/SpinalHDL) - проект для написания rtl на Scala
 * [Asic World](https://www.asic-world.com/systemverilog/index.html) - англоязычный сайт про System Verilog
-* [chipverify.com](https://www.chipverify.com/) - англоязычный сайт про System Verilog 
-* [FPGA designs with Verilog](https://verilogguide.readthedocs.io/en/latest/index.html) - руководство по языку Verilog с примерами
-* [FPGA designs with VHDL](https://vhdlguide.readthedocs.io/en/latest/index.html) - руководство по языку VHDL с примерами
+* [chipverify.com](https://www.chipverify.com/) - англоязычный сайт про System Verilog
 * [HDLbits](https://hdlbits.01xz.net/wiki/Main_Page) - сборник небольших схемотехнических упражнений для практики проектирования цифрового оборудования с использованием Verilog
 * [Марсоход](https://marsohod.org/) - Сообщество, созданное профессиональными разработчиками устройств на базе FPGA и CPLD компании Altera/Intel
 * [Sunburst Design](http://www.sunburst-design.com/papers/) - сайт с интересными статьями по Veriog и SystemVerilog, OVM/UVM
